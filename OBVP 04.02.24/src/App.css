@@ -1,0 +1,8 @@
+#root{
+  display: flex;
+  text-align: center;
+}
+
+.blacktext{
+  color: #3a3a3a;
+}
